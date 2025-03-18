@@ -5,4 +5,5 @@ src/.idea/*
 riderModule.iml
 /_ReSharper.Caches/
 /.idea/*
-/Api/appsettings.Development.json
+src/Api/appsettings.Development.json
+src/Api/appsettings.json
