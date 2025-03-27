@@ -1,7 +1,9 @@
 bin/
 obj/
+src/.idea/*
 /packages/
 riderModule.iml
 /_ReSharper.Caches/
 /.idea/*
-/Api/appsettings.Development.json
+src/Api/appsettings.Development.json
+src/Api/appsettings.json
